@@ -1,0 +1,7 @@
+torch
+torchvision
+torchaudio
+openai-whisper
+google-genai
+requests
+python-dotenv
